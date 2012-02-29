@@ -12,6 +12,7 @@
 		<div class="content">
 			
 			<?php require("moviesearch.php"); ?>
+			<div id="sug">For example, try <a href="http://localhost/movies/moviesearch.php?q=findinG+NemO">Finding Nemo</a></div>
 		</div>
 		
 		
