@@ -1,0 +1,33 @@
+body
+{ background-color: yellow;
+  color: purple;
+  padding-left: 0.5em;
+ }
+ .poster 
+ { position: relative;
+   float: right;
+   }
+.main
+{ background-color: cyan;
+  color : orange;
+  text-align:center;
+  font-family:Georgia;
+  height:70px;
+  }
+.back
+{ width: 98%;
+  height: 500px;
+  position:absolute;
+  z-index:-1;
+ }
+ form
+ { color: Red;
+   text-align:center;
+   font-size: 40px;
+ }
+ #q
+ { font-size: 35px;
+   color:green;
+  }
+ h1
+ { color:Red;}
